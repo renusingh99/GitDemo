@@ -1,0 +1,4 @@
+# Created at 2019-10-01T11:24:39.366
+Boot Manifest-JAR contains absolute paths in classpath 'E:\photon_eclipse_workspace\eclipse-workspace_new\Maven_Eg\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
