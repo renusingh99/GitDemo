@@ -9,12 +9,16 @@ public class Appium {
 	public void AppiumAutomation()
 	{
 		System.out.println("Appium Automation");
+		System.out.println("Appium Automation1");
+		System.out.println("Appium Automation2");
 	}
 
 	@Test
 	public void Appium_ui()
 	{
-		System.out.println("Appium Automation UI");
+		System.out.println("Appium Automation UI1");
+		System.out.println("Appium Automation UI2");
+		System.out.println("Appium Automation UI3");
 	}
 
 }
