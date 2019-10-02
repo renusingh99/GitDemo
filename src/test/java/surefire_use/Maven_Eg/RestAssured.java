@@ -10,6 +10,8 @@ public class RestAssured {
 	public void RestAutomation()
 	{
 		System.out.println("Rest Automation");
+		System.out.println("Rest Automation1");
+		System.out.println("Rest Automation2");
 	}
 
 	@Test
