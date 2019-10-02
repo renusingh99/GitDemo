@@ -12,6 +12,9 @@ public class RestAssured {
 		System.out.println("Rest Automation");
 		System.out.println("Rest Automation1");
 		System.out.println("Rest Automation2");
+		//wwwwwwwwww
+		System.out.println("Rest Automation3");
+		System.out.println("Rest Automation4");
 	}
 
 	@Test
